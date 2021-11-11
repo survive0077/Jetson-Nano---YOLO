@@ -147,7 +147,7 @@ sudo apt-get install libpng12-dev
 sudo apt-get install pkg-config
 ```
 
-安装matplotlib3.2.2（YOLOV5最低要求版本也是对Nanp兼容性最好的一个版本）
+安装matplotlib3.2.2（YOLOV5最低要求版本也是对Nano兼容性最好的一个版本）
 
 ```shell
 pip3 install matplotlib==3.2.2
